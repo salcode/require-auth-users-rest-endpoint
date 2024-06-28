@@ -1,12 +1,22 @@
 # Require Auth Users REST Endpoint
 
-This WordPress plugin modifies the `/wp-json/wp/v2/users` endpoint to require authentication.
+Stable tag: 1.0.0  
+Tested up to: 6.5  
+License: GPL-2.0-or-later  
+Tags: rest, api, users, authentication, endpoint  
+Contributors: salcode  
+
+Require authentication when accessing the /wp-json/wp/v2/users REST API endpoint.
+
+## Description
+
+This plugin modifies the `/wp-json/wp/v2/users` endpoint to require authentication.
 
 By default on a WordPress site you can list the users that have posted content on the site by visiting this endpoint.
 
 This plugin requires the user to be authenticated to view the list of users.
 
-## What this means
+### What this means
 
 If you go directly to the URL `/wp-json/wp/v2/users` you will get a `401 Unauthorized` response.
 
