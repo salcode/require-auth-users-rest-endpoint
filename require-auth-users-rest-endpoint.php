@@ -3,7 +3,7 @@
  * Plugin Name:       Require Auth Users REST Endpoint
  * Plugin URI:        https://github.com/salcode/require-auth-users-rest-endpoint
  * Description:       Restrict /wp/v2/users REST API endpoint routes to authenticated users.
- * Version:           0.1.0
+ * Version:           1.0.0
  * Requires at least: 6.5
  * Requires PHP:      7.2
  * Author:            Sal Ferrarello
