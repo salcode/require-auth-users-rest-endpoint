@@ -1,7 +1,7 @@
 # Require Auth Users REST Endpoint
 
 Stable tag: 1.0.0  
-Tested up to: 6.5  
+Tested up to: 6.6  
 License: GPL-2.0-or-later  
 Tags: rest, api, users, authentication, endpoint  
 Contributors: salcode  
