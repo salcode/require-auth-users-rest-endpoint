@@ -22,7 +22,7 @@ If you go directly to the URL `/wp-json/wp/v2/users` you will get a `401 Unautho
 
 But if you open a block editor page and run the following from the browser console,
 
-```js
+```
 await wp.apiFetch({path: 'wp/v2/users'});
 ```
 
